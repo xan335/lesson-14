@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.cont {
+    padding-top: 100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    box-shadow: 1px 1px 1px 1px;
+    background-color: black;
+    border-radius: 10px;
+
+
+}
+
+#one {
+    margin: 40px 50px 40px 70px;
+    width: 50px;
+    height: 50px;
+    color: black;
+    background-color: white;
+
+}
+
+.buttons {
+    margin: 0 0 0 20px;
+}
+
+
+button {
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid red;
+    background-color: black;
+    color: white;
+}
+
+button:hover {
+    background-color: rgb(203, 203, 203);
+    transform: scale(1.05);
+}
