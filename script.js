@@ -5,7 +5,7 @@ let rnd = document.querySelector('#rnd')
 let resed = document.querySelector('#resed')
 
 let rt = 0;
-let rt1 = 0;
+
 
 one.textContent = 0;
 
